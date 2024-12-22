@@ -1,7 +1,7 @@
 body {
-    background-image: url("/mission-2/assets/images/blue-sky-background-with-white-clouds_849973-56.avif");
-    background-size: cover; 
-    background-position: center;
-    background-repeat: no-repeat; 
+  background-image: url("/mission-2/assets/images/blue-sky-background-with-white-clouds_849973-56.avif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
-  }
+}
